@@ -72,7 +72,7 @@ module "eks" {
 
   }
 
-#  eks_managed_node_groups = {
+##  eks_managed_node_groups = {
 #    one = {
 #      name = "node-group-1"
 #
